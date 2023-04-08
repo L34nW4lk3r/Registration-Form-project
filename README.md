@@ -1,3 +1,2 @@
-# Registration Form project (Responsive Web Design)
-#In this repository I will be uploading the projects made in FreeCodeCamp that I find interesting and see my progress over time
+# In this repository I will show the project made in FreeCodeCamp - Responsive Web Design. 
 
